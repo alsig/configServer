@@ -1,0 +1,1 @@
+For setting up as service follow this link: http://www.diegoacuna.me/how-to-run-a-script-as-a-service-in-raspberry-pi-raspbian-jessie/
