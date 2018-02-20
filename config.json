@@ -1,0 +1,10 @@
+{
+  "EC:FA:BC:07:B1:CB":
+  {
+    "sensorTopic": "/hall/light"
+  },
+  "EC:FA:BC:07:B1:CA":
+  {
+    "sensorTopic": "/hall/light"
+  }
+}
